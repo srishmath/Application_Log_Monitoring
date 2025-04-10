@@ -9,4 +9,4 @@ python3 simulate_requests.py
 
 
 in another terminal - /kafka -
-python3 producers.py
+python3 producer.py
