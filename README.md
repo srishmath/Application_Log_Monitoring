@@ -10,3 +10,6 @@ python3 simulate_requests.py
 
 in another terminal - /kafka -
 python3 producer.py
+
+in another terminal - /KafkaConsumer -
+python3 consumer.py
