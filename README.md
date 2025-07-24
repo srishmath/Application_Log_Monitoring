@@ -1,3 +1,7 @@
+Project to emulate workloads on different endpoints in an application and measuring and visualizing various metrics using Grafana.
+Run in a Dockerised environment.
+
+
 to run:
 
 inside /docker - 
